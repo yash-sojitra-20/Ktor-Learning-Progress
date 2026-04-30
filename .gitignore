@@ -1,0 +1,40 @@
+# =============================================
+# ktor-demo
+# =============================================
+
+ktor-demo/.gradle
+ktor-demo/build/
+ktor-demo/!gradle/wrapper/gradle-wrapper.jar
+ktor-demo/!**/src/main/**/build/
+ktor-demo/!**/src/test/**/build/
+
+### STS ###
+ktor-demo/.apt_generated
+ktor-demo/.classpath
+ktor-demo/.factorypath
+ktor-demo/.project
+ktor-demo/.settings
+ktor-demo/.springBeans
+ktor-demo/.sts4-cache
+ktor-demo/bin/
+ktor-demo/!**/src/main/**/bin/
+ktor-demo/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+ktor-demo/.idea
+ktor-demo/*.iws
+ktor-demo/*.iml
+ktor-demo/*.ipr
+ktor-demo/out/
+ktor-demo/!**/src/main/**/out/
+ktor-demo/!**/src/test/**/out/
+
+### NetBeans ###
+ktor-demo/nbproject/private/
+ktor-demo/nbbuild/
+ktor-demo/dist/
+ktor-demo/nbdist/
+ktor-demo/.nb-gradle/
+
+### VS Code ###
+ktor-demo/.vscode/
