@@ -79,3 +79,44 @@ ktor-task-app/.nb-gradle/
 
 ### VS Code ###
 ktor-task-app/.vscode/
+
+# =============================================
+# ktor-rest-task-app
+# =============================================
+
+ktor-rest-task-app/.gradle
+ktor-rest-task-app/build/
+ktor-rest-task-app/!gradle/wrapper/gradle-wrapper.jar
+ktor-rest-task-app/!**/src/main/**/build/
+ktor-rest-task-app/!**/src/test/**/build/
+
+### STS ###
+ktor-rest-task-app/.apt_generated
+ktor-rest-task-app/.classpath
+ktor-rest-task-app/.factorypath
+ktor-rest-task-app/.project
+ktor-rest-task-app/.settings
+ktor-rest-task-app/.springBeans
+ktor-rest-task-app/.sts4-cache
+ktor-rest-task-app/bin/
+ktor-rest-task-app/!**/src/main/**/bin/
+ktor-rest-task-app/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+ktor-rest-task-app/.idea
+ktor-rest-task-app/*.iws
+ktor-rest-task-app/*.iml
+ktor-rest-task-app/*.ipr
+ktor-rest-task-app/out/
+ktor-rest-task-app/!**/src/main/**/out/
+ktor-rest-task-app/!**/src/test/**/out/
+
+### NetBeans ###
+ktor-rest-task-app/nbproject/private/
+ktor-rest-task-app/nbbuild/
+ktor-rest-task-app/dist/
+ktor-rest-task-app/nbdist/
+ktor-rest-task-app/.nb-gradle/
+
+### VS Code ###
+ktor-rest-task-app/.vscode/
