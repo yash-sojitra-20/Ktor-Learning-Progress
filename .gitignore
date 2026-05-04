@@ -120,3 +120,44 @@ ktor-rest-task-app/.nb-gradle/
 
 ### VS Code ###
 ktor-rest-task-app/.vscode/
+
+# =============================================
+# ktor-exposed-task-app
+# =============================================
+
+ktor-exposed-task-app/.gradle
+ktor-exposed-task-app/build/
+ktor-exposed-task-app/!gradle/wrapper/gradle-wrapper.jar
+ktor-exposed-task-app/!**/src/main/**/build/
+ktor-exposed-task-app/!**/src/test/**/build/
+
+### STS ###
+ktor-exposed-task-app/.apt_generated
+ktor-exposed-task-app/.classpath
+ktor-exposed-task-app/.factorypath
+ktor-exposed-task-app/.project
+ktor-exposed-task-app/.settings
+ktor-exposed-task-app/.springBeans
+ktor-exposed-task-app/.sts4-cache
+ktor-exposed-task-app/bin/
+ktor-exposed-task-app/!**/src/main/**/bin/
+ktor-exposed-task-app/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+ktor-exposed-task-app/.idea
+ktor-exposed-task-app/*.iws
+ktor-exposed-task-app/*.iml
+ktor-exposed-task-app/*.ipr
+ktor-exposed-task-app/out/
+ktor-exposed-task-app/!**/src/main/**/out/
+ktor-exposed-task-app/!**/src/test/**/out/
+
+### NetBeans ###
+ktor-exposed-task-app/nbproject/private/
+ktor-exposed-task-app/nbbuild/
+ktor-exposed-task-app/dist/
+ktor-exposed-task-app/nbdist/
+ktor-exposed-task-app/.nb-gradle/
+
+### VS Code ###
+ktor-exposed-task-app/.vscode/
